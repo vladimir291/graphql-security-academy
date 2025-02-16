@@ -1,2 +1,3 @@
 🔒 A free, open-source platform dedicated to understand and secure GraphQL applic
 # clarify the control flow
+# match the style used in the rest of the module
